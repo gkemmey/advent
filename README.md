@@ -1,12 +1,6 @@
 ### Advent of Code 🎄
 
-#### Credits
-
-https://adventofcode.com/
-
-#### This repo is just my solutions
-
-##### Usage
+#### Usage
 
 ```
 >> advent ./bin/advent -h
