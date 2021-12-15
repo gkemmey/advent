@@ -1,0 +1,28 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    console (1.14.0)
+      fiber-local
+    fiber-local (1.0.0)
+    mapping (1.1.1)
+    minitest (5.14.4)
+    samovar (2.1.4)
+      console (~> 1.0)
+      mapping (~> 1.0)
+    scanf (1.0.0)
+    zeitwerk (2.5.1)
+
+PLATFORMS
+  arm64-darwin-20
+
+DEPENDENCIES
+  minitest
+  samovar
+  scanf
+  zeitwerk
+
+RUBY VERSION
+   ruby 3.0.2p107
+
+BUNDLED WITH
+   2.2.22
